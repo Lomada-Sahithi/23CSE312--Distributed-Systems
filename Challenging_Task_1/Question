@@ -1,0 +1,6 @@
+Challenging Task 1
+In this lab exercise, you will demonstrate the concept of Distributed Shared Memory (DSM) using two or more computers with different IP addresses.
+One computer should create a shared variable (e.g., a number) and store it in a shared memory system accessible over the network.
+A second computer should read the shared variable, modify its value (e.g., increment it), and write the updated value back to the shared storage.
+The first computer should then read and display the updated value.
+The task is considered complete when the changes made by one system are successfully reflected and visible on the other system(s), demonstrating shared access to common data in a distributed environment.
