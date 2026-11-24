@@ -1,0 +1,2 @@
+1. Client-Server Communication
+Develop a client-server application that enables bidirectional message exchange between a client and a server. The client and server should run on different systems with different IP addresses.
