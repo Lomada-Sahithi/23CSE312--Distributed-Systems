@@ -1,0 +1,2 @@
+2. Peer-to-Peer File Listing
+Develop a peer-to-peer application that lists the files available in a specified local folder and displays them to the client. The file list must be generated dynamically from the actual folder contents and should not contain dummy data.
